@@ -1,7 +1,8 @@
+```yaml name=.github/workflows/blank.yml url=https://github.com/Lukspec/Lukspec/blob/b685416bd7d03b693d05c929aaf6767a8549ba09/.github/workflows/blank.yml
 name: Generate Datas
 
 on:
-  schedule: # execute every 12 hours
+  schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
@@ -10,10 +11,8 @@ permissions:
 
 jobs:
   build:
-    name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
       - uses: Platane/snk@master
         id: snake-gif
         with:
@@ -24,5 +23,4 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-        env:
-          PERSONAL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          personal_token: ${{ secrets.PAGES_TOKEN }}
