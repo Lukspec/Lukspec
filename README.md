@@ -1,4 +1,4 @@
-## Oi! eu sou o Lukas Camara
+## Olá! me chamo Lukas Camara
 
 - 🔭 Atualmente estou em um estágio na área de Agentes de Inteligência Artificial 
 - 🌱 Sigo finalizando meu bacharel em Ciência da computação
