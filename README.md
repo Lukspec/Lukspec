@@ -1,6 +1,6 @@
 ## Olá! me chamo Lukas Camara
 
-- 🔭 Atualmente estou em busca de um estágio
+- 🔭 Estagiando em Engenharia de IA
 - 🌱 Sigo finalizando meu bacharel em Ciência da computação
 - 😄 Pronouns: Ele / Dele
 
