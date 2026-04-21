@@ -1,8 +1,8 @@
 ## Olá! me chamo Lukas Camara
 
-- 🔭 Estagiando Engenharia de IA
-- 🌱 Sigo finalizando meu bacharel em Ciência da computação
-- 😄 Pronouns: Ele / Dele
+- Estagiando Engenharia de IA
+- Sigo finalizando meu bacharel em Ciência da computação
+- Pronouns: Ele / Dele
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lukspec&show_icons=true&theme=radical)<picture>
 
