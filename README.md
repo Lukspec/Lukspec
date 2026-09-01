@@ -1,6 +1,6 @@
 ## Olá! me chamo Lukas Camara
 
-- Software & AI Engeneer
+- Software & AI Engineer
 - Sigo finalizando meu bacharel em Ciência da computação
 - Pronouns: Ele / Dele
 
